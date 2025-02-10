@@ -1,35 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub.io Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-        }
-        .profile {
-            margin: 0 auto;
-            width: 300px;
-        }
-        .profile img {
-            width: 100%;
-            border-radius: 50%;
-            margin-bottom: 20px;
-        }
-        .info {
-            font-size: 1.2em;
-        }
-    </style>
-</head>
-<body>
-    <div class="profile">
-        <img src="https://www.picgo.net/image/7.W7UmKL" alt="Profile Picture">
-        <div class="info">
-            <p>吃草了...快给孩子投喂!<p>
-        </div>
-    </div>
-</body>
-</html>
+---
+title: My Profile
+date: 2025-02-10
+---
+
+<div class="profile">
+  <img src="https://www.picgo.net/image/7.W7UmKL" alt="Profile Picture">
+  <p>给孩子点吃的吧...</p>
+  <p>ip:114.514.1919.810</p>
+  <p>psr@gmx.us</p>
+</div>
